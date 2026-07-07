@@ -239,7 +239,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 ## 📊 Dashboard 1 – Dataset Overview & KPIs
 
 <p align="center">
-  <img src="assets/screenshot_01.png" alt="Dataset Overview" width="900">
+  <img src="assets/Screenshot_01.png" alt="Dataset Overview" width="900">
 </p>
 
 ---
@@ -247,7 +247,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 ## 📈 Dashboard 2 – Sales & Product Analysis
 
 <p align="center">
-  <img src="assets/screenshot_02.png" alt="Sales Analysis" width="900">
+  <img src="assets/Screenshot_02.png" alt="Sales Analysis" width="900">
 </p>
 
 ---
@@ -255,7 +255,7 @@ https://archive.ics.uci.edu/dataset/352/online+retail
 ## 🌍 Dashboard 3 – Customer, Country & Time Analysis
 
 <p align="center">
-  <img src="assets/screenshot_03.png" alt="Customer and Time Analysis" width="900">
+  <img src="assets/Screenshot_03.png" alt="Customer and Time Analysis" width="900">
 </p>
 
 ---
